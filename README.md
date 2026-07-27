@@ -8,6 +8,12 @@ The HillSec Hybrid Identity Implementation is a simulated enterprise Identity an
 
 The project integrates Okta Workforce Identity Cloud, Microsoft Entra ID, Active Directory, and Splunk to simulate enterprise identity operations while following IAM best practices. The implementation is being documented from initial planning through final deployment to showcase both technical and documentation skills.
 
+## Why I Built This Project
+
+This project was created to gain practical experience designing and implementing a modern hybrid Identity and Access Management (IAM) environment.
+
+Rather than completing isolated product tutorials, the objective is to build an integrated enterprise identity solution that demonstrates planning, implementation, testing, security best practices, and technical documentation similar to those used in production environments.
+
 ---
 
 ## Project Objectives
