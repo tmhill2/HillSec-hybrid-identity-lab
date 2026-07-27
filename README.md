@@ -42,6 +42,11 @@ Rather than completing isolated product tutorials, the objective is to build an 
 | Splunk Enterprise | Security Information & Event Management (SIEM) |
 | GitHub | Project Documentation & Version Control |
 
+
+## Planned Architecture
+
+> Architecture diagram coming in Phase 4.
+
 ---
 
 ## Repository Structure
