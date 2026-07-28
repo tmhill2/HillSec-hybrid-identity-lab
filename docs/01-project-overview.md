@@ -76,14 +76,12 @@ This project is intended for educational and portfolio purposes and demonstrates
 
 ---
 
-## Project Documentation
-
 | Phase | Document |
 |--------|----------|
-| Phase 1 | Project Planning |
-| Phase 2 | Identity Foundation |
-| Phase 3 | Identity Lifecycle Management |
-| Phase 4 | Authentication & Access Management |
-| Phase 5 | Enterprise Application Integration |
-| Phase 6 | Hybrid Identity Integration |
-| Phase 7 | Security Monitoring & Validation |
+| Phase 1 | [Project Planning](02-project-planning.md) |
+| Phase 2 | [Identity Foundation](03-identity-foundation.md) |
+| Phase 3 | [Identity Lifecycle Management](04-identity-lifecycle-management.md) |
+| Phase 4 | [Authentication & Access Management](05-authentication-access-management.md) |
+| Phase 5 | [Enterprise Application Integration](06-enterprise-application-integration.md) |
+| Phase 6 | [Hybrid Identity Integration](07-hybrid-identity-integration.md) |
+| Phase 7 | [Security Monitoring & Validation](08-security-monitoring-validation.md) |
