@@ -66,17 +66,6 @@ Throughout this project, the following IAM concepts are demonstrated:
 - Security Monitoring
 - IAM Documentation
 
----
-
-## Repository Structure
-
-```
-docs/
-diagrams/
-images/
-screenshots/
-README.md
-```
 
 ---
 
