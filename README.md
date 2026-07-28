@@ -63,23 +63,6 @@ HillSec-Hybrid-Identity-Implementation/
 
 ---
 
-## Current Project Status
-
-- ✅ Repository Created
-- ✅ Project Planning
-- 🔄 Organization Design
-- ⬜ Groups & RBAC
-- ⬜ User Provisioning
-- ⬜ MFA Configuration
-- ⬜ Authentication Policies
-- ⬜ Enterprise Applications
-- ⬜ Microsoft Entra ID Integration
-- ⬜ Active Directory Integration
-- ⬜ Splunk Integration
-- ⬜ Final Documentation
-
----
-
 ## Skills Demonstrated
 
 - Identity & Access Management (IAM)
