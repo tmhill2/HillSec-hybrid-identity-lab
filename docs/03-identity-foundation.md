@@ -83,13 +83,21 @@ The group structure was reviewed to verify:
 
 ## Screenshots
 
-### Group Overview
+The following screenshots demonstrate the successful implementation of the Role-Based Access Control (RBAC) group structure within the HillSec Okta Workforce Identity Cloud tenant.
 
-*(Insert your first screenshot)*
+### RBAC Group Overview
 
-### Additional Group View
+![RBAC Group Overview](../screenshots/phase-02-identity-foundation/groups-overview-01.png)
 
-*(Insert your second screenshot)*
+*Figure 1. Administrative, department, and application groups configured within the Okta tenant.*
+
+---
+
+### Group Configuration
+
+![Group Configuration](../screenshots/phase-02-identity-foundation/groups-overview-02.png)
+
+*Figure 2. Additional view of the configured groups, demonstrating consistent naming conventions and readiness for user provisioning.*
 
 ---
 
