@@ -131,3 +131,16 @@ HillSec-Hybrid-Identity-Implementation/
 - Screenshots
 - Lessons learned
 - Final project review
+
+## Project Documentation
+
+Detailed implementation documentation is available for each phase of the project:
+
+- [Project Overview](docs/01-project-overview.md)
+- [Project Planning](docs/02-project-planning.md)
+- [Identity Foundation](docs/03-identity-foundation.md)
+- [Identity Lifecycle Management](docs/04-identity-lifecycle-management.md)
+- [Authentication & Access Management](docs/05-authentication-access-management.md)
+- [Enterprise Application Integration](docs/06-enterprise-application-integration.md)
+- [Hybrid Identity Integration](docs/07-hybrid-identity-integration.md)
+- [Security Monitoring & Validation](docs/08-security-monitoring-validation.md)
