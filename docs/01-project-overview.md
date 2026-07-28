@@ -72,3 +72,18 @@ Throughout this project, the following IAM concepts are demonstrated:
 ## About This Project
 
 This project is intended for educational and portfolio purposes and demonstrates practical Identity and Access Management concepts using industry-standard technologies and best practices.
+
+
+---
+
+## Project Documentation
+
+| Phase | Document |
+|--------|----------|
+| Phase 1 | Project Planning |
+| Phase 2 | Identity Foundation |
+| Phase 3 | Identity Lifecycle Management |
+| Phase 4 | Authentication & Access Management |
+| Phase 5 | Enterprise Application Integration |
+| Phase 6 | Hybrid Identity Integration |
+| Phase 7 | Security Monitoring & Validation |
