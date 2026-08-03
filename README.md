@@ -95,10 +95,13 @@ HillSec-Hybrid-Identity-Implementation/
 - MFA
 - Authentication policies
 
-### Phase 4 – Hybrid Identity
-- Microsoft Entra ID integration
-- Active Directory integration
-- SSO implementation
+### Phase 4 – Authentication & Access Management
+- Microsoft Entra ID automation
+- Microsoft Graph PowerShell
+- Automated user provisioning
+- Role-Based Access Control (RBAC)
+- Automated group assignments
+- Manager hierarchy
 
 ### Phase 5 – Monitoring
 - Splunk integration
