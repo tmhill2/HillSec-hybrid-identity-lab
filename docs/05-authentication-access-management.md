@@ -181,20 +181,64 @@ The completed implementation was validated by verifying:
 - Execution logs recorded provisioning activity.
 
 ---
-
 # Implementation Evidence
 
-> **Note:** Screenshots and implementation evidence will be added as the project progresses.
+The following screenshots demonstrate the successful implementation of authentication and access management within the HillSec Microsoft Entra ID environment.
 
-Planned figures include:
+## Microsoft Graph Authentication
 
-- Figure 1. Microsoft Graph PowerShell Authentication
-- Figure 2. Bulk User Provisioning Automation
-- Figure 3. Microsoft Entra ID User Directory
-- Figure 4. Department and Administrative Security Groups
-- Figure 5. Application Security Groups
-- Figure 6. Automated Group Assignment Results
-- Figure 7. Manager Relationship Configuration
+![Microsoft Graph Authentication](../screenshots/phase-04-authentication-access-management/Figure-1-MicrosoftGraph-Authentication.png)
+
+**Figure 1.** Successful authentication to Microsoft Graph using the Microsoft Graph PowerShell SDK.
+
+---
+
+## Bulk User Provisioning
+
+![Bulk User Provisioning](../screenshots/phase-04-authentication-access-management/Figure-2-Bulk-Provisioning.png)
+
+**Figure 2.** Automated provisioning of HillSec employee identities into Microsoft Entra ID.
+
+---
+
+## Microsoft Entra ID User Directory
+
+![Microsoft Entra Users](../screenshots/phase-04-authentication-access-management/Figure-3-Entra-Users.png)
+
+**Figure 3.** HillSec employee identities successfully provisioned within Microsoft Entra ID.
+
+---
+
+## Security Groups
+
+![Security Groups](../screenshots/phase-04-authentication-access-management/Figure-4-Security-Groups.png)
+
+**Figure 4.** Department and administrative security groups supporting Role-Based Access Control (RBAC).
+
+---
+
+## Application Security Groups
+
+![Application Groups](../screenshots/phase-04-authentication-access-management/Figure-5-Application-Groups.png)
+
+**Figure 5.** Application security groups used to manage access to enterprise applications.
+
+---
+
+## Group Assignments
+
+![Group Assignments](../screenshots/phase-04-authentication-access-management/Figure-6-Group-Assignments.png)
+
+**Figure 6.** Automated assignment of department, administrative, and application security groups.
+
+---
+
+## Manager Relationship
+
+![Manager Relationship](../screenshots/phase-04-authentication-access-management/Figure-7-Manager-Relationship.png)
+
+**Figure 7.** Organizational reporting hierarchy configured through automated manager assignments.
+
 
 ---
 
