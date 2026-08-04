@@ -110,7 +110,7 @@ The implementation was validated by confirming:
 
 ## Enterprise Applications Overview
 
-![Enterprise Applications Overview](../screenshots/phase-05-enterprise-application-integration/Figure-2-Enterprise-Applications-Overview.png)
+![Enterprise Applications Overview](HillSec-hybrid-identity-lab / screenshots / phase-05-enterprise-application-integration / Figure-1-Create-Enterprise-Application.png)
 
 **Figure 2.** Enterprise Applications configured within the HillSec Microsoft Entra ID environment.
 
