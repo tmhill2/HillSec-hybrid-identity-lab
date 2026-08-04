@@ -102,7 +102,7 @@ The implementation was validated by confirming:
 
 ## Enterprise Application Creation
 
-![Create Enterprise Application](/screenshots/phase-05-enterprise-application-integration/Figure-1-Create-Enterprise-Application.png)
+![Create Enterprise Application](screenshots/ phase-05-enterprise-application-integration/Figure-1-Create-Enterprise-Application.png)
 
 **Figure 1.** Creating a custom Enterprise Application using Microsoft Entra ID.
 
