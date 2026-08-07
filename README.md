@@ -52,9 +52,7 @@ This project was designed to:
 | Microsoft Graph PowerShell | Identity Automation |
 | Enterprise Applications | Centralized Application Access |
 | Active Directory | Enterprise Directory Services |
-| Windows Server | Domain Controller |
 | Windows 11 | Client Workstation |
-| Splunk Enterprise | Security Information & Event Management (SIEM) |
 | GitHub | Documentation & Version Control |
 
 ---
