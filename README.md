@@ -10,18 +10,20 @@ Rather than completing isolated product tutorials, this project follows a struct
 
 ---
 
-# Project Highlights
+## Project Highlights
 
-- 26 simulated enterprise identities
 - Microsoft Entra ID administration
 - Okta Workforce Identity Cloud
 - Microsoft Graph PowerShell automation
+- Identity lifecycle management
+- Enterprise application integration
+- Hybrid identity architecture
+- Role-Based Access Control (RBAC)
+- Identity federation concepts
+- 26 simulated enterprise identities
 - Automated user provisioning
 - Automated RBAC group assignments
 - Automated manager hierarchy
-- Enterprise Application integration
-- Hybrid Identity architecture
-- Identity lifecycle management
 - Eight phases of technical documentation
 - Comprehensive implementation screenshots and validation
 
@@ -118,18 +120,20 @@ Detailed implementation documentation is organized by project phase.
 
 ---
 
-# Final Environment
+## Final Environment
 
-The completed HillSec environment demonstrates a modern enterprise IAM implementation including:
+The completed HillSec environment demonstrates:
 
-- Workforce identity administration
-- Identity lifecycle management
+- 26 simulated enterprise workforce identities
+- 17 enterprise security groups implementing RBAC
+- Microsoft Entra ID administration
+- Okta Workforce Identity Cloud integration
 - Microsoft Graph PowerShell automation
-- Role-Based Access Control (RBAC)
 - Enterprise application integration
 - Hybrid identity architecture
-- Authentication and directory monitoring
-- Identity validation through Microsoft Entra ID monitoring capabilities
+- Identity lifecycle management
+- Authentication monitoring and auditing
+
 
 ---
 
@@ -151,5 +155,7 @@ Potential future enhancements include:
 This project was developed as part of my professional Identity & Access Management learning journey to gain practical experience with enterprise identity technologies while building a portfolio that demonstrates planning, implementation, automation, validation, and technical documentation.
 
 The environment is intended to model enterprise IAM concepts using production-inspired design principles while acknowledging the constraints of a lab environment.
+
+The project emphasizes repeatable implementation processes, enterprise IAM best practices, and professional documentation similar to those used in production environments.
 
 
