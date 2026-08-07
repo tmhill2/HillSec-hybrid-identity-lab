@@ -29,7 +29,7 @@ Rather than completing isolated product tutorials, this project follows a struct
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 This project was designed to:
 
@@ -45,7 +45,7 @@ This project was designed to:
 
 ---
 
-# Technologies
+## Technologies
 
 | Technology | Purpose |
 |------------|---------|
@@ -59,7 +59,7 @@ This project was designed to:
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Identity & Access Management (IAM)
 - Identity Lifecycle Management
@@ -76,7 +76,7 @@ This project was designed to:
 
 ---
 
-# Project Roadmap
+## Project Roadmap
 
 | Phase | Status |
 |-------|--------|
@@ -91,7 +91,7 @@ This project was designed to:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```
 HillSec-Hybrid-Identity-Lab
@@ -103,7 +103,7 @@ HillSec-Hybrid-Identity-Lab
 
 ---
 
-# Project Documentation
+## Project Documentation
 
 Detailed implementation documentation is organized by project phase.
 
@@ -137,7 +137,7 @@ The completed HillSec environment demonstrates:
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 Potential future enhancements include:
 
