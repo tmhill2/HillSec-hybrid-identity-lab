@@ -96,8 +96,6 @@ HillSec-Hybrid-Identity-Lab
 │
 ├── docs/
 ├── screenshots/
-├── scripts/
-├── diagrams/
 └── README.md
 ```
 
